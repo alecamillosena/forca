@@ -1,0 +1,51 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+
+header{
+    font-size: 20px;
+    text-align: center;
+    color: purple;
+}
+
+.botao{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    margin: 20px 70px 20px 70px;
+}
+
+.botao input{
+height: 25px;
+}
+
+.botao button{
+height: 31px;
+}
+
+.letras {
+    border: 3px solid white;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+}
+
+
+.respErrada {
+    border: 3px solid white;
+    font-size: 100px;
+    text-align: center;
+    margin: 0 auto;
+    height: 150px;
+    width: 80%;
+}
+
+div p{
+    text-align: center;
+    font-size: 30px;
+}
